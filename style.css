@@ -1,0 +1,14 @@
+h1{
+    color: black;
+    text-align: center;
+    background-color: aquamarine;
+}
+p{
+    width: 300px;
+    background-color: antiquewhite;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/R.6ca38308b6f8c960e6569516a75f6d60?rik=%2fAP%2fFxMX1D9ojw&pid=ImgRaw&r=0);
+    background-size: cover;
+    background-position: 0%;
+}
